@@ -6,33 +6,8 @@ body{
     margin-bottom: 90px !important;
 }
 
-
-section{
-    font-size: 45px;
-    font-weight: bold;
-    padding-bottom: 5px;
-    padding-top: 20px;
-    color: #01175f;
-    border-bottom: 5px dashed #01175f;
-    margin-top: 40px;
-    margin-bottom: 30px;
-}
-
-.headline{
-    font-size: 35px;
-    font-weight: bold;
-    padding-bottom: 10px;
-    padding-top: 10px;
-}
-
-#profile{
-    font-size: 35px;
-    font-weight: bold;
-    padding-top: 20px;
-}
-
-article{
-    padding-top: 10px;
+.item-card{
+    margin-bottom: 50px !important;
 }
 
 .link{
