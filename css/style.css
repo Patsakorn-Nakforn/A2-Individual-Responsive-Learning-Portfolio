@@ -10,7 +10,7 @@ body{
     margin-bottom: 50px !important;
 }
 
-.link{
+.linkref{
     font-style: italic;
-    font-weight: bold;
+    color: rgb(74, 74, 74);
 }
